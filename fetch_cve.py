@@ -68,6 +68,6 @@ def fetch_and_store_data():
             break
 
     print("--- Sync Completed ---")
-
+# main method
 if __name__ == "__main__":
     fetch_and_store_data()
